@@ -8,8 +8,10 @@ public class constant {
         int num1;
         int num2;
         int sum;
-        num1=5; num2=63;
+        num1=105; num2=63;
         System.out.println(num1+num2);
+        System.out.println(num1*num2);
+
         
         
 
