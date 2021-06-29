@@ -5,9 +5,11 @@ public class constant {
 
 
 
-        int num1;
-        int num2;
+        int num1=10;
+        int num=45;
         int sum;
+        sum=num*num1;
+        System.out.println(sum);
 
 
     }
