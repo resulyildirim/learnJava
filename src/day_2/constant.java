@@ -10,6 +10,8 @@ public class constant {
         int sum;
         num1=5; num2=63;
         System.out.println(num1+num2);
+        
+        
 
 
     }
